@@ -1,0 +1,15 @@
+Author  : REBEN FARAJ 
+Email   : Reben_f@hotmail.co.uk
+Website : www.webdesign.me.uk
+Date    :02-05-2017 
+=======================How to run This project ======================================
+>School Management System PHP project Version 0.1
+>Install PHP 5.6 Or Later 
+>install XAMPP  : https://www.apachefriends.org/index.html
+>Create a database 'school_management-db.sql'
+> create table 'school_'
+> Setup Database connection , please note that I am using localhost as server , 
+root as username, password not required . Please see db_connector.php in Config folder and change the 
+database credentials. 
+> Finally visit http://localhost/school-management-system/index.php
+=========================================================================================
